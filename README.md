@@ -9,7 +9,7 @@ Note that within a thread, ChatGPT's response will be based on roughly the last 
 ### A prompt for factual information
 
 ```
-What is the capital of Hartford?
+What is the capital of Connecticut?
 ```
 
 ### A prompt for ideas
