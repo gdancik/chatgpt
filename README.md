@@ -53,7 +53,7 @@ Rewrite the following sentence without any grammatical errors. If there are no e
 ### A prompt that uses ChatGPT as a tutor
 
 ```
-Please explain what each of the following lines from Rome and Juliet mean:
+Please explain what each of the following lines from Romeo and Juliet mean:
 
 O Romeo, Romeo, wherefore art thou Romeo?
 Deny thy father and refuse thy name,
